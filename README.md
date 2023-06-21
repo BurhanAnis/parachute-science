@@ -1,11 +1,10 @@
 # parachute-science
-Python scripts used to scrape relevant research affiliation data from Scopus exports to quantify neo-colonial practice in modern scientific research.
+
+Colonial science, also referred to as ’helicopter science’ or ’parachute science, is the practice whereby researchers from highly developed nations conduct research in nations with a lower economic status, without properly acknowledging local infrastructure and expertise (Odeny & Bosurgi, 2022). This creates a form of neo-colonialism in which global north nations dominate research and fail to form meaningful collaborations with researchers from other backgrounds. In an increasing globalised world, it is important that research becomes more inclusive and equitable, and this, unfortunately, is not reality (Akudinobi & Kilmarx, 2022). While the practice is becoming more recognised in fields such as infectious disease research and general medical research (Yozwiak et al., 2016), there remains a lack of publications bringing attention to the problem in fields such as Paleoecology, where input from local researchers and communities is vital to enrich the cultural understanding and context of a given research question about the environment. Here I outline the python based methods I used to turn publication data into a visualisation like this:
 
 
-Colonial science, also referred to as ’helicopter science’ or ’parachute science, is the practice whereby researchers from highly developed nations conduct research in nations with a lower eco- nomic status, without properly acknowledging local infrastructure and expertise (Odeny & Bosurgi, 2022). This creates a form of neo-colonialism in which global north nations dominate research and fail to form meaningful collaborations with researchers from other backgrounds. In an increasing globalised world, it is important that research becomes more inclusive and equitable, and this, unfortunately, is not reality (Akudinobi & Kilmarx, 2022). While the practice is becoming more recognised in fields such as infectious disease research and general medical research (Yozwiak et al., 2016), there remains a lack of publications bringing attention to the problem in fields such as Paleoecology, where input from local researchers and communities is vital to enrich the cultural understanding and context of a given research question about the environment. Here I outline the python based methods I used to turn publication data into a visualisation like this:
+![Screen Shot 2023-04-13 at 1 50 48 PM](https://github.com/BurhanAnis/parachute-science/assets/115022379/9a31060f-cb83-4cec-905b-309d068bc20a)
 
-
-![Connection Map Parachute Science](https://github.com/BurhanAnis/parachute-science/assets/115022379/6c03af8b-662e-44c8-9fa4-e19c20879cc2)
 
 Note the density of publications in the European and American countries, as compared to the countries they perform their research in.
 
